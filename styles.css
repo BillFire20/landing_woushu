@@ -1,0 +1,52 @@
+/*Google api fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+/*Default theme color: #d78228*/
+
+/*Website Media*/
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/*button editing*/
+.btn{
+    color:#d78228 ;
+    border-color: #d78228;
+}
+
+
+.btn:hover{
+    background-color: #d78228;
+    color: white;
+}
+
+.emp{
+    color: #d78228;
+}
+
+.contact_sline{
+    font-size: 0.7rem;
+}
+
+.ml-embedded{
+    margin-top: -64px;
+
+}
+
+.rounded{
+    height: 25rem;
+}
+
+.dopbt{
+    background-color: black;
+   
+}
+
+.whiteSpan{
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    border-color: none;
+}
