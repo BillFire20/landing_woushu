@@ -33,6 +33,10 @@ body{
 
 }
 
+.mlbad{
+    margin-bottom: 90px;
+}
+
 .rounded{
     height: 25rem;
 }
@@ -50,3 +54,5 @@ a{
     text-decoration: none;
     border-color: none;
 }
+
+/*accordian*/
